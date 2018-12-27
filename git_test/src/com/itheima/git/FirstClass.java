@@ -15,5 +15,6 @@ public class FirstClass {
         int a=0;
         int b=0;
         int c=1;
+        int d=2;
     }
 }
