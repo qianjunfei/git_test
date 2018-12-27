@@ -14,5 +14,6 @@ public class FirstClass {
     public void add(){
         int a=0;
         int b=0;
+        int c=1;
     }
 }
